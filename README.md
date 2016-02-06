@@ -1,2 +1,3 @@
 # Helloworld-thialand
-bennerham
+public static void main(){
+system.out.print("helloworld");
